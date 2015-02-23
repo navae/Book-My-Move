@@ -1,0 +1,144 @@
+
+.bg_image
+{
+background: url("../img/pattern2.png");
+}
+
+.header
+{
+background: #f04900;
+margin-top:30px;
+height: 110px;
+}
+
+.logo
+{
+height:200px;
+width:400px;
+margin-top: -45px;
+margin-left:-120px;
+}
+
+.about_us
+{
+position: absolute; 
+bottom:10px; 
+left:41px; 
+width:400px; 
+font-weight:bold; 
+color:black; 
+font-famiy:FontAwesome;
+}
+
+.contact_Us
+{
+position:absolute; 
+bottom:10px;
+left:37px; 
+width:400px; 
+font-weight:bold; 
+color:black; 
+font-famiy:FontAwesome;
+}
+
+.services
+{
+position:absolute; 
+bottom:10px; 
+left:41px; 
+width:400px; 
+font-weight:bold; 
+color:black; 
+font-famiy:FontAwesome;
+}
+
+.discuss
+{
+position:absolute; 
+bottom:10px; 
+left:41px; 
+width:400px; 
+font-weight:bold; 
+color:black; 
+font-famiy:FontAwesome;
+}
+
+.help
+{
+position:absolute; 
+bottom:10px; 
+left:41px; 
+width:400px; 
+font-weight:bold; 
+color:black; 
+font-famiy:FontAwesome;
+}
+
+
+.footer_links
+{
+color:white; 
+font-size:14px; 
+margin-top:20px; 
+margin-left:10px;
+}
+
+footer
+{
+position:absolute;
+margin-bottom:-50px;
+bottom:0;
+width:100%;
+height:100px;
+background:#f04900;
+}
+
+.demo1
+{
+position:absolute;
+height:500px;
+width:500px;
+margin-top: 30px;
+float:right;
+}
+
+
+.demo
+{
+height:400px;
+width:550px;
+margin-right:50px;
+margin-top: 15px;
+float:right;
+border: 1px solid;
+background-color:#D3D3D3;
+border-radius:15px;
+color:white;
+}
+
+
+.house_types
+{
+height:250px;
+width:300px;
+margin-top: 60px;
+margin-left:120px;
+border:1px solid black;
+}
+
+.home_types_title
+{
+border:1px solid black;
+float:right;
+}
+
+.menu_hover:hover { 
+    color:#fff;
+content: url('../img/Box_White.png');
+height:65px;
+width: 115px;
+}
+
+
+
+
